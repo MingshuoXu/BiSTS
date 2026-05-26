@@ -1,0 +1,19 @@
+[project]
+name = "lgmd-benchmark"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "psychopy>=2025.1.1",
+    "opencv-python",
+    "numpy",
+    "prettytable",
+    "scikit-image",
+    "numba",
+    "seaborn",
+    "torch",
+    "torchvision"
+]
+
+

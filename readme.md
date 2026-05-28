@@ -1,6 +1,6 @@
 # BiSTS: A Biphasic Spatial-Temporal Synergy Architecture Improving Separability of Approaching Motion Recognition
 
-[English](#english) | [中文版](#chinese)
+[English](#english) | [中文版](#chinese)    ([Paper Website](https://mingshuoxu.github.io/LGMD-Benchmark/))
 
 <a id="english"></a>
 
